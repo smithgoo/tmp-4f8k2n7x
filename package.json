@@ -1,0 +1,1 @@
+{"description":"Minimal test app to verify the Abasthan free tier","engines":{"node":">=18"},"main":"server.js","name":"abasthan-test-app","scripts":{"start":"node server.js"},"version":"1.0.0"}
